@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class O1knapsack19 {
 
     // recursion soln (TC -> O(2^n), SC -> O(n))
