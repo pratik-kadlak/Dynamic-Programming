@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class minCostToCutStick49 {
+public class minCostToCutStick50 {
 
     // Recursive Soln: TC -> O(2^c), SC -> O(c)
     public static int solveRecursiveMinCost(int i, int j, int start, int end, int[] cuts){

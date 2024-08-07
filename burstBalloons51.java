@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class burstBalloons50 {
+public class burstBalloons51 {
 
     // My Soln
     public static int solveRecursiveMaxCoins(ArrayList<Integer> nums){
