@@ -83,7 +83,7 @@ public class numWaysToEvaluateBooleanExpresseionToTrue52 {
         int n = ch.length;
         int[][][] dp = new int[n][n][2];
 
-        for(int i = 0; i < ch.length; i++){
+        for(int i = 0; i < ch.length; i+=2){
             if(ch[i] == 'T') {
                 dp[i][i][1] = 1;
                 dp[i][i][0] = 0;
